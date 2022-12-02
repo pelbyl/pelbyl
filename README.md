@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @pelbyl
 - 👀 I’m interested in 5G and Crypto
-- 🌱 I’m currently in 5G, C++, web3.
+- 🌱 I’m currently in 5G R&D, web3.
 - 💞️ Web3 enthusiast and PoS/PoW validator.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pelbyl/) & [Telegram](https://t.me/pelbyl)
 
