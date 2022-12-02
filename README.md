@@ -8,9 +8,10 @@
 
 Projects support as a validator:
 
-![logo-744a36cdd238cb9865468f82f9266d27](https://user-images.githubusercontent.com/36705469/205275618-0e58f25c-bca6-42a6-a367-c2a87b806dde.png)
-Aleo [explorer](https://www.aleo.network/leaderboard/aleo10h75w0gmv8fm2tdkqumlj8p00f548rjh325m9dej8c95ex752y9snw57hj)
+<a href="url"><img src="https://assets-global.website-files.com/5e990b3bae81cf4a03433c58/5f347d008da2e477a3c61fca_Aleo-logo-white-p-500.png" align="left" height="24"> [Explorer](https://www.aleo.network/leaderboard/aleo10h75w0gmv8fm2tdkqumlj8p00f548rjh325m9dej8c95ex752y9snw57hj) </a> 
 
+<a href="url"><img src="https://global-uploads.webflow.com/620b86dd36c9285a4b3048fa/6216af2dd100a155f79b5148_minima_logo.svg" align="left" height="24"> </a>
+ 
 <!---
 pelbyl/pelbyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
