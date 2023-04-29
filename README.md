@@ -1,10 +1,9 @@
 ![E85A3EFD-C3A2-48B9-BC36-1A9CF80BCA4E](https://user-images.githubusercontent.com/36705469/204632237-727b2234-656a-471b-80c3-c75446b57698.JPG)
 
-- 👋 Hi, I’m pelbyl
+- 👋 Hi
 - 👀 I’m interested in Computer Networks and Crypto
 - 🌱 I’m currently work as Networks Software Dev.
 - 💞️ Web3 enthusiast and PoS/PoW validator.
-- 📫 Socials [LinkedIn](https://www.linkedin.com/in/pelbyl/), [Telegram](https://t.me/pelbyl), [Twitter](https://twitter.com/Dmitrii_Zudin)
 
 ## Infrastructure
 
