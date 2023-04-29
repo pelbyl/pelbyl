@@ -45,7 +45,7 @@ SSD: 4TB
 ## Stack
 
 📥 **Deploy & Monitoring**
-> Ansible, Docker, Docker Compose, Graphana
+> Ansible, Docker, Docker Compose, Grafana
 
 🗄️ **Virtualization**
 > KVM, QEMU, VMware
