@@ -18,39 +18,20 @@ SSD: 4TB
 >
 > GeForce RTX 2070ti [**10x**]
 
-⛓️ Light Servers (150 in total)
+⛓️ Light Servers (192 in total)
 >
->- 4 CPU, 16RAM, 500Gb SSD
-> 
->- [**149x**] 4 CPU, 8Gb RAM, 400Gb SSD | **Locations:** Germany 🇩🇪, US 🇺🇸, Japan 🇯🇵
-
-## Current and previous Testnet validators and nodes
-| Node | Server Type | Quantity |
-|------|-------------|----------|
-| Aleo | ⚡️ Power (GPU mining) & ⛏️ Mining | 1 & 1 |
-| Aptos | ⛓️Light | 20 |
-| SUI | ⛓️Light | 20 |
-| Minima | ⛓️ Light | 80 |
-| Massa | ⚡️ Power & ⛓️ Light | 1 & 40 |
-| Nibiru | ⛓️ Light | 30 |
-| Starknet | ⚡️ Power & ⛓️ Light | 1 & 73 |
-| Ironfish | ⛓️ Light | 30 |
-| Subspace | ⛓️ Light | 40 |
-| Shardeum | ⚡️ Power (VMware) & ⛓️ Light | 2 & 20 |
-| Taiko | ⛓️ Light | 20 |
-
-
+>- 6 CPU, 16 Gb RAM, 600Gb SSD | **Locations:** Germany 🇩🇪, US 🇺🇸, Japan 🇯🇵
 
 ## Stack
 
 📥 **Deploy & Monitoring**
-> Ansible, Docker, Docker Compose, Grafana
+> Ansible, Docker(+ Compose and Swarm), Prometheus & Grafana
 
 🗄️ **Virtualization**
 > KVM, QEMU, VMware
 
 🤖 **Scripting**
-> Selenium (browser automation), Bash (fast installation), Python (daily monitoring reports)
+> Selenium (browser automation), Bash (fast installation), Python (daily monitoring reports, news parsing)
 
 📋 **Solidity, SmartPy**
 > Easier onboarding to other smart contract languages
