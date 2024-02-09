@@ -20,7 +20,7 @@ SSD: 4TB
 
 ⛓️ Light Servers (192 in total)
 >
->- 6 CPU, 16 Gb RAM, 600Gb SSD | **Locations:** Germany 🇩🇪, US 🇺🇸, Japan 🇯🇵
+> 6 CPU, 16 Gb RAM, 600Gb SSD | **Locations:** Germany 🇩🇪, US 🇺🇸, Japan 🇯🇵
 
 ## Stack
 
