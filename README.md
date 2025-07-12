@@ -2,39 +2,7 @@
 
 - 👋 Hi
 - 👀 I’m interested in Computer Networks and Crypto
-- 🌱 I’m currently work as Networks Software Dev.
-- 💞️ Web3 enthusiast and PoS/PoW validator.
-
-## Infrastructure
-
-⚡️ Power Server
-> 
->CPU: AMD Ryzen 32-core\
-RAM: 64Gb DDR4\
-GPU: GeForce RTX 2070\
-SSD: 4TB
-
-⛏️ Mining Server
->
-> GeForce RTX 2070ti [**10x**]
-
-⛓️ Light Servers (192 in total)
->
-> 6 CPU, 16 Gb RAM, 600Gb SSD | **Locations:** Germany 🇩🇪, US 🇺🇸, Japan 🇯🇵
-
-## Stack
-
-📥 **Deploy & Monitoring**
-> Ansible, Docker(+ Compose and Swarm), Prometheus & Grafana
-
-🗄️ **Virtualization**
-> KVM, QEMU, VMware
-
-🤖 **Scripting**
-> Selenium (browser automation), Bash (fast installation), Python (daily monitoring reports, news parsing)
-
-📋 **Solidity, SmartPy**
-> Easier onboarding to other smart contract languages
+- 💞️ Web3 enthusiast and blockchain validator.
 
 
   
